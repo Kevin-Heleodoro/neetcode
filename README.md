@@ -7,3 +7,6 @@
 
 -   [Valid Anagram](Arrays_and_Hashing/validAnagram.js)
     -- https://leetcode.com/problems/valid-anagram/
+
+-   [Two Sum](Arrays_and_Hashing/twoSum.js)
+    -- https://leetcode.com/problems/two-sum/
