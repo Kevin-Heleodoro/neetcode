@@ -10,3 +10,6 @@
 
 -   [Two Sum](Arrays_and_Hashing/twoSum.js)
     -- https://leetcode.com/problems/two-sum/
+
+-   [Group Anagrams](Arrays_and_Hashing/groupAnagrams.js)
+    -- https://leetcode.com/problems/group-anagrams/
