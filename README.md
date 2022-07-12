@@ -16,3 +16,6 @@
 
 -   [Top K Frequent Elements](Arrays_and_Hashing/topKFrequentElements.js)
     -- https://leetcode.com/problems/top-k-frequent-elements/
+
+-   [Product of Array Except Self](Arrays_and_Hashing/productOfArrayExceptSelf.js)
+    -- https://leetcode.com/problems/product-of-array-except-self/
