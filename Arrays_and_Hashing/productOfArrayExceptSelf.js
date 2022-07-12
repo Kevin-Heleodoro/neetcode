@@ -9,7 +9,7 @@ You must write an algorithm that runs in O(n) time and without using the divisio
 /**
  * Approach 1:
  * Time: O(n)
- * Space: O(n)
+ * Space: O(1)
  */
 
 const productExceptSelf = function (nums) {
@@ -19,13 +19,14 @@ const productExceptSelf = function (nums) {
 	for (let i = 0; i < nums.length; i++) {
 		result[i] = product;
 		product *= nums[i];
+		console.log(result);
 	}
-	console.log(result);
 
 	product = 1;
 	for (let j = nums.length - 1; j >= 0; j--) {
 		result[j] *= product;
 		product *= nums[j];
+		console.log(result);
 	}
 
 	return result;
