@@ -19,14 +19,12 @@ const productExceptSelf = function (nums) {
 	for (let i = 0; i < nums.length; i++) {
 		result[i] = product;
 		product *= nums[i];
-		console.log(result);
 	}
 
 	product = 1;
 	for (let j = nums.length - 1; j >= 0; j--) {
 		result[j] *= product;
 		product *= nums[j];
-		console.log(result);
 	}
 
 	return result;

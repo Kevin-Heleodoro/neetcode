@@ -19,3 +19,6 @@
 
 -   [Product of Array Except Self](Arrays_and_Hashing/productOfArrayExceptSelf.js)
     -- https://leetcode.com/problems/product-of-array-except-self/
+
+-   [Longest Consecutive Sequence](Arrays_and_Hashing/longestConsecutiveSequence.js)
+    -- https://leetcode.com/problems/longest-consecutive-sequence/
