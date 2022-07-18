@@ -1,5 +1,7 @@
 # Needcode problems
 
+This collection of algorithms consists of the Blind 75 along with 75 other algorithms chosen by the developer at neetcode.io
+
 ## Arrays & Hashing:
 
 -   [Contains Duplicates](Arrays_and_Hashing/containsDuplicate.js)
@@ -22,3 +24,8 @@
 
 -   [Longest Consecutive Sequence](Arrays_and_Hashing/longestConsecutiveSequence.js)
     -- https://leetcode.com/problems/longest-consecutive-sequence/
+
+## Two Pointers:
+
+-   [Valid Palindrome](Two_Pointers/validPalindrome.js)
+    -- https://leetcode.com/problems/valid-palindrome/
